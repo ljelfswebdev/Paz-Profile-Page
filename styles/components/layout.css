@@ -1,0 +1,22 @@
+.header {
+    width:100%;
+    height: fit-content;
+    padding-top: 20px;
+    padding-bottom:20px;
+    background-color: #3490DE;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    justify-content:center;
+    align-items: center;
+}
+
+.header-left{
+    justify-content: center;
+    align-items: center;
+    border-radius:5px;
+}
+
+.header-center {
+    display:grid;
+    grid-template-columns: 2fr 1fr;
+}
