@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 @import "./components/layout.css";
+@import "./pages/index.css";
 
 html,
 body {
