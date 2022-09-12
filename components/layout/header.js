@@ -42,7 +42,7 @@ const Header = () => {
               <ul className="MENU-LINK-MOBILE-OPEN flex flex-col items-center justify-between min-h-[250px]">
 
                 <li className="header-navLinks">
-                  <a href="/portfolio">Portfolio</a>
+                  <a href="/curriculum">Curriculum</a>
                 </li>
                 <li className="header-navLinks">
                   <a href="/gallery">Gallery</a>
@@ -57,7 +57,7 @@ const Header = () => {
           <ul className="DESKTOP-MENU hidden space-x-8 lg:flex">
 
             <li className="header-navLinks">
-              <a href="/portfolio">Portfolio</a>
+              <a href="/curriculum">Curriculum</a>
             </li>
             <li className="header-navLinks">
               <a href="/gallery">Gallery</a>

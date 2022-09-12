@@ -4,6 +4,8 @@
 
 @import "./components/layout.css";
 @import "./pages/index.css";
+@import "./pages/contact.css";
+@import "./pages/gallery.css";
 
 html,
 body {
@@ -11,6 +13,7 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    background-color: #000;
 }
 
 a {
